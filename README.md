@@ -4,6 +4,7 @@
 [![Django](https://img.shields.io/badge/Django-5.x-092E20?logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?logo=docker&logoColor=white)](https://www.docker.com/)
 [![Database](https://img.shields.io/badge/Database-SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Maintainability](https://qlty.sh/gh/jvvppereira/projects/simple-django-crud/maintainability.svg)](https://qlty.sh/gh/jvvppereira/projects/simple-django-crud)
 
 A clean, modern, and lightweight Django-based Customer Relationship Management (CRM) app. Also known as **Customer 360**, this application offers an end-to-end dashboard to track customers, manage their contact information, log customer interactions (calls, emails, SMS, letters, social media), and view structured engagement analytics.
 
