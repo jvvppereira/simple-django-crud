@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from datetime import date, timedelta
 from django.db.models import Count
-from .models import *
+from .models import Customer, Interaction
 
 def index(request):
     customers = Customer.objects.all()
