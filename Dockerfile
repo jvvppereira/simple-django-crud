@@ -1,5 +1,5 @@
 # Use official Python slim image on Debian Bookworm (stable, LTS security support)
-FROM python:3.13-slim-bookworm
+FROM python:3.16-rc-slim-trixie
 
 # Set environment variables
 ENV PYTHONDONTWRITEBYTECODE=1
